@@ -28,11 +28,17 @@ Suggested pitch structure (table form)
 **Speaker flow**
 
 **Slide 2:** Think of a street in Basel on two difficult days: first, a hot summer afternoon; then, a heavy burst of rain. The same street can offer too little shade and too few places for rain to soak in. What could change if we looked at those problems together?
+
 **Slide 3:** Heat and rain are often discussed separately. But on a street, they meet in the same places: on roofs, walls, pavements, trees, soil, and drains. A paved surface can send rain quickly toward the drain. Shade and vegetation can change how a place feels. And where a city makes room for soil and water, it may be able to address more than one challenge at a time.
+
 **Slide 4:** Basel is not a blank sheet. Existing streets, buildings, and infrastructure have to be adapted over time, with the people who use them in mind. Urban acupuncture came up in our brainstorming which focuses attention on strategic places to implement changes.
+
 **Slide 5:** We believe learning through interaction is powerful. Therefore, we created an interactive platform to let people experiment with city planning and watch what happens to understand cause and effects on temperature and runoffs.
 We’re narrowing our focus to one location: a place where there is a meaningful need, a plausible opportunity to improve conditions, and enough data to emulate the workflow to other locations.
 Here is an interactive view of a street in Basel. Visitors can explore changes such as different ground surfaces, planting, green roofs, or covered rain storage. As they make choices, effects show up, for example, how more permeable ground could give rain more places to go and send less toward the drain.
+
 **Slide 6**: The first audience is the public: adults and children should be able to explore the idea without needing technical background. Architects and city decision-makers may want more detail. Our concept is one clear experience, with additional information available for people who need it, such as data sources, assumptions, and quantitative results.
+
 **Slide 7**: Who could use it? Residents, architects, city planning and building teams. The tool can help people see the same place as a connected system and start a conversation about what to investigate next. The exact partners will depend on the location and the changes we explore.
+
 **Slide 8**: At SpongeSquad our aim is simple: help people see how a street can make more room for rain and shade, make those connections more intuitive and easier to talk about.
